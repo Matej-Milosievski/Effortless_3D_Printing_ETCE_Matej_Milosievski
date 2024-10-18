@@ -3,7 +3,7 @@
 For the purpose of simplifying and identifying key stages within the process pipeline, a **logic diagram** can be used for illustrating the multiple outcomes based on the part the user is scanning.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fb4d32da-1a89-4354-808b-bab022c535bf" alt="Centered Image" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/fb4d32da-1a89-4354-808b-bab022c535bf" alt="Centered Image" width="1080"/>
 </p>
 
 
@@ -28,4 +28,4 @@ b)	it is flat, thin, or very small and there are no intricate details which requ
 
 **7.	Designing in CAD from scratch with accurate measurements** - If the part does not have any critical curves, but is complex to the point where a scanner is unable to capture key dimensions or features with respect to the intended use of the part, it is recommended for the user to use measuring tools (digital calipers, angle gauge, etc.) to accurately measure the dimensions and model them in CAD. This outcome is the least desirable within the logic diagram as it requires a user with substantial CAD/ modeling knowledge and experience. 
 
-With the goal of making this process as simple as possible for the user, we aim to automate as many steps (outcomes) of this process as possible.
+### With the goal of making this process as simple as possible for the user, we aim to automate as many steps (outcomes) of this process as possible.
