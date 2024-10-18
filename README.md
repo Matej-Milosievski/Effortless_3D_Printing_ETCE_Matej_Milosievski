@@ -11,7 +11,7 @@
 - [**3D Scanning Software & Know-How**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/3D_Scanning_%26_Know_How.md): Tools and tips for scanning.
 - [**Exploring Automated Modeling**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/Exploring_Automated_Modeling.md): Automated tools used for part reconstruction.
 - [**Fusion 360 Automated Modeling**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/Exploring_Automated_Modeling.md): Case study using Fusion 360.
-- **Testing Scenarios 1-4**: Detailed test cases for automated modeling.
+- [**Testing Scenarios 1-4**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/Testing_Scenarios_1-4.md): Detailed test cases for automated modeling.
 - **Lessons Learned & Feasibility**: Key takeaways and the tool's limitations.
 
 Additional information and used literature can be found under **Project_Documentation**
