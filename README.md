@@ -13,3 +13,5 @@
 - **Fusion 360 Automated Modeling**: Case study using Fusion 360.
 - **Testing Scenarios 1-4**: Detailed test cases for automated modeling.
 - **Lessons Learned & Feasibility**: Key takeaways and the tool's limitations.
+
+Additional information and used literature can be found under **Project_Documentation**
