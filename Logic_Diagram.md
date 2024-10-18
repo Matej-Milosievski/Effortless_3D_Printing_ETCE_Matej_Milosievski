@@ -2,9 +2,12 @@
 
 For the purpose of simplifying and identifying key stages within the process pipeline, a **logic diagram** can be used for illustrating the multiple outcomes based on the part the user is scanning.
 
-![Image_5](https://github.com/user-attachments/assets/72062547-dde7-4f30-a5ba-1483ffd4ee2b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb4d32da-1a89-4354-808b-bab022c535bf" alt="Centered Image" width="1000"/>
+</p>
 
-               Logic Diagram with different approaches (outcomes) based on the broken component 
+
+                           Logic Diagram with different approaches (outcomes) based on the broken component 
 
 Based on the logic diagram, the user can fix his broken component in a total of seven ways which at first may seem similar, but are all different in their own respective way. Generally, the further downwards the user goes down the logic diagram, the more time it takes to fix a component and the more complex these fixes get with respect to the necessary CAD knowledge and 3D scanning procedure.
 
