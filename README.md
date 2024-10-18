@@ -7,7 +7,7 @@
 
 ## Repository Structure
 - [**Introduction**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/Introduction.md): Overview of the process for creating spare parts.
-- **Logic Diagram**: Process flow for fixing broken parts.
+- [**Logic Diagram**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/Logic_Diagram.md): Process flow for fixing broken parts.
 - **3D Scanning Software & Know-How**: Tools and tips for scanning.
 - **Exploring Automated Modeling**: Automated tools used for part reconstruction.
 - **Fusion 360 Automated Modeling**: Case study using Fusion 360.
