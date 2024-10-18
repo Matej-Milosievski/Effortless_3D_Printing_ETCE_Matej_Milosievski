@@ -6,16 +6,24 @@ The used scanning equipment for during the research was the Revopoint MINI 2 3D 
 
 The scanner comes with its own Revo Scan 5 proprietary software which is available for PC, Android and IOS devices. After installing the software (in this case for PC), the scanner can be connected to the PC using the Type-C cable, after which 2 screws need to be tightened, and a Type-A end connected to the PC (with PD). 
 
-![Image_6](https://github.com/user-attachments/assets/bd319512-5726-4400-ae5e-a682a0972369)
-![Image_6_1](https://github.com/user-attachments/assets/fe0a0f83-cb2a-40fa-9cfe-e969c6506661)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd319512-5726-4400-ae5e-a682a0972369" alt="Centered Image" width="1080"/>
+</p>
 
-                  Graphical representation of connecting PC to Revopoint MINI 2D
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fe0a0f83-cb2a-40fa-9cfe-e969c6506661" alt="Centered Image" width="1080"/>
+</p>
+
+                                  Graphical representation of connecting PC to Revopoint MINI 2D
 
 Subsequently, the user will be required to manually calibrate the scanner via the settings icon. The user is given instructions directly via the Revo Scan 5 software as to how to correctly calibrate the scanner. After successful calibration, the user will have the option to create a new project, and will be greeted with the following interface:
 
-![Image_8](https://github.com/user-attachments/assets/2bfd08ba-1b24-4f04-bc26-629d21dbb102)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2bfd08ba-1b24-4f04-bc26-629d21dbb102" alt="Centered Image" width="1080"/>
+</p>
 
-                                                       Revo Scan 5 UI
+                                                             Revo Scan 5 UI
+
 There are a total of 14 option available on the navigation bar: 
 **(0)	Scan
 (1)	One-click-editing;
@@ -39,19 +47,25 @@ Keeping in mind that this whole process should be easily achievable for a user w
 ## Revo Scan 5's one-click processing
 Revo Scan 5’s one-click processing feature automatically performs fusion, meshing, and texturing (if a color scan was done) based on the best detected setting for the point cloud.
 
-![Image_9](https://github.com/user-attachments/assets/9adfa22e-b9c1-496a-bca7-ea28dc817147)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9adfa22e-b9c1-496a-bca7-ea28dc817147" alt="Centered Image" width="720"/>
+</p>
 
-                            Preview of one-click editing tool
+                                                      Preview of one-click editing tool
 ## Revo Scan 5's fill holes tool
 After the (1) one-click processing has finished, there still may be some imperfections in the form of holes in the mesh which may be the result of the angle at which the scan was taken or the overexposure due to environmental lightning. In such cases, the user should opt to using the (9) fill holes tool. The detected holes will be detected with a red outline, after which the user should select in and proceed to fill the holes. Depending on the location of the hole, the user should select the *plane* option for holes on flat surfaces or the *curve* option for holes on curved surfaces:
 
-![Image_10](https://github.com/user-attachments/assets/857385da-accb-426b-ba7c-af2854c95760)
-                     
-        Preview of model before and after use of hole filling tool
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/857385da-accb-426b-ba7c-af2854c95760" alt="Centered Image" width="720"/>
+</p>
+
+                                      Preview of model before and after use of hole filling tool
 
 ## Revo Scan 5 Shortcuts
 
-![Image_14](https://github.com/user-attachments/assets/f6861145-f5ba-4d29-b0ec-294717f2deae)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6861145-f5ba-4d29-b0ec-294717f2deae" alt="Centered Image" width="1080"/>
+</p>
 
 ## 3D Scanning Know-How
 Based on several scans performed on different types of objects, we concluded that:
