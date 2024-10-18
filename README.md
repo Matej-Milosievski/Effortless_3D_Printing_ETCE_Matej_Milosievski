@@ -14,4 +14,4 @@
 - [**Testing Scenarios 1-4**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/Testing_Scenarios_1-4.md): Detailed test cases for automated modeling.
 - [**Lessons Learned & Feasibility**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/Lessons_Learned_%26_Feasibility.md): Key takeaways and the tool's limitations.
 
-Additional information and used literature can be found under **Project_Documentation**
+### Additional information and used literature can be found under [**Project_Documentation**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/Project_Documentation.md)
