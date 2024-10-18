@@ -9,7 +9,7 @@
 - [**Introduction**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/Introduction.md): Overview of the process for creating spare parts.
 - [**Logic Diagram**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/Logic_Diagram.md): Process flow for fixing broken parts.
 - [**3D Scanning Software & Know-How**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/3D_Scanning_%26_Know_How.md): Tools and tips for scanning.
-- **Exploring Automated Modeling**: Automated tools used for part reconstruction.
+- [**Exploring Automated Modeling**](https://github.com/Matej-Milosievski/Effortless_3D_Printing_ETCE_Matej_Milosievski/blob/main/Exploring_Automated_Modeling.md): Automated tools used for part reconstruction.
 - **Fusion 360 Automated Modeling**: Case study using Fusion 360.
 - **Testing Scenarios 1-4**: Detailed test cases for automated modeling.
 - **Lessons Learned & Feasibility**: Key takeaways and the tool's limitations.
