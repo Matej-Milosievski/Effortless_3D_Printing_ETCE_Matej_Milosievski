@@ -1,7 +1,7 @@
 # Effortless_3D_Printing_ETCE_Matej_Milosievski
 
 ## Description
-### The project was motivated by a need to develop a method for effortless 3D printing of spare parts for everyday life repairs, focusing on automating processes to simplify the repair of simple geometric components like a broken lamp piece.
+### This research was motivated by a need to develop a method for effortless 3D printing of spare parts for everyday life repairs, focusing on automating processes to simplify the repair of simple geometric components like a broken lamp piece.
 ![Image_1](https://github.com/user-attachments/assets/695149f7-981e-41f4-877d-364ab745e4c9)
 
 
