@@ -6,7 +6,7 @@ The process of capturing dimensions of broken components and producing a 3D prin
 </p>
 
                       
-                                                  Graphical representation of 3DP4R process
+                                        Graphical representation of 3DP4R process
 Our aim is to develop a method or process pipeline which enables the user to effortlessly repair parts for everyday use. As assumption, we take that the user is not exactly experienced in CAD design, but has a general understanding of the general concepts. Therefore, it is essential to aid the end user in understanding the complexity of the broken piece at hand.
 
 Depending on the complexity (size, location, repetition) of the damage on the component which should be remade, as well as the original geometric complexity of the component, there are multiple approaches and corresponding outcomes towards tackling the replacement of the desired part.
