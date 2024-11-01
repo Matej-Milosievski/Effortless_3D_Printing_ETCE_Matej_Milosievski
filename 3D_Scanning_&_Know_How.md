@@ -25,21 +25,9 @@ Subsequently, the user will be required to manually calibrate the scanner via th
                                                              Revo Scan 5 UI
 
 There are a total of 14 option available on the navigation bar: 
-**(0)	Scan
-(1)	One-click-editing;
-(2)	Fusion;
-(3)	Isolation;
-(4)	Overlap;	        
-(5)	Smooth;
-(6)	Simplify; 
-(7)	Mesh;
-(8)	Isolation;
-(9)	Fill Holes; 		 
-(10)	Smooth;
-(11)	Simplify;
-(12)	Texture;
-(13)	Merge;
-(14)	Export**
+
+**(0)	Scan; (1)	One-click-editing; (2)	Fusion; (3)	Isolation; (4)	Overlap; (5)	Smooth; (6)	Simplify; (7)	Mesh; (8) Isolation; (9)	Fill Holes; (10)	Smooth; (11)	Simplify; (12)	Texture; (13)	Merge; (14)	Export**
+
 On the left-hand side, the user will see a live feed of the object that is being scanned with options to adjust the exposure of the depth camera and RGB camera. On the right-hand side, the user will see an indicator bar regarding the distance from the scanner to the scanned object, ranging from too near, excellent, good, far, too far. The aim of the user should be to always position the object within the excellent range (between 120-250mm). Depending on the selected tool from the navigation bar, multiple options will be displayed on the right-hand side. The user can initiate a scan using the start option, cancel it and click complete scan after the table makes (at least) one full rotation. 
 
 Keeping in mind that this whole process should be easily achievable for a user with little to no CAD experience, our aim is for the user to result to only the **(1) one-click editing tool** along with **(9) fill holes tool** (if there are any areas in which the point-cloud model is not connected as intended. 
