@@ -1,9 +1,3 @@
-### Sample Paper
-[Sample_Paper_rev_1.pdf](https://github.com/user-attachments/files/17439943/Sample_Paper_rev_1.pdf)
-
-### Project Report
-[Project_Report_rev_1.pdf](https://github.com/user-attachments/files/17439944/Project_Report_rev_1.pdf)
-
 ### Revo Scan User Guide (PC)
 [PC-v5.4.8-en-Revo-Scan-User-Guide.pdf](https://github.com/user-attachments/files/17439987/PC-v5.4.8-en-Revo-Scan-User-Guide.pdf)
 
