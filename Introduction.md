@@ -1,11 +1,9 @@
 # Introduction
 
 The process of capturing dimensions of broken components and producing a 3D printable model is complex. The project aims to streamline this through a four-step **3DP4R method**: Analyze, (Re)design, Manufacture, and Test. This research primarily focuses on simple geometric parts for home repairs.
-<p align="center">
-  <img src="(https://github.com/user-attachments/assets/a30c16ec-33a7-46b0-bdd4-f329d70f5dda)" alt="Graphical representation of 3DP4R process" width="720"/>
-</p>
 
-                      
+![Image_2_3](https://github.com/user-attachments/assets/30febb3a-c374-4493-9e7b-e24aabf8825b)
+
                                         Graphical representation of 3DP4R process
 Our aim is to develop a method or process pipeline which enables the user to effortlessly repair parts for everyday use. As assumption, we take that the user is not exactly experienced in CAD design, but has a general understanding of the general concepts. Therefore, it is essential to aid the end user in understanding the complexity of the broken piece at hand.
 
