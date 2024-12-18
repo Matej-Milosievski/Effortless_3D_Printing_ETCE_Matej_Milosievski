@@ -3,7 +3,7 @@
 For the purpose of simplifying and identifying key stages within the process pipeline, a **logic diagram** can be used for illustrating the multiple outcomes based on the part the user is scanning.
 
 <p align="center">
-  <img src="![Image_5_3](https://github.com/user-attachments/assets/6845a667-c223-43c4-94e8-c3e4542df0f0)" width="1080"/>
+  <img src="[Image_5_3](https://github.com/user-attachments/assets/6845a667-c223-43c4-94e8-c3e4542df0f0)" width="1080"/>
 </p>
 
 
