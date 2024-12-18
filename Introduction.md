@@ -2,7 +2,7 @@
 
 The process of capturing dimensions of broken components and producing a 3D printable model is complex. The project aims to streamline this through a four-step **3DP4R method**: Analyze, (Re)design, Manufacture, and Test. This research primarily focuses on simple geometric parts for home repairs.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e85672e-e557-4eee-923d-77de16518d68" alt="Graphical representation of 3DP4R process" width="720"/>
+  <img src="![Image_2_3](https://github.com/user-attachments/assets/a30c16ec-33a7-46b0-bdd4-f329d70f5dda)" alt="Graphical representation of 3DP4R process" width="720"/>
 </p>
 
                       
