@@ -6,7 +6,7 @@ The used scanning equipment for during the research was the Revopoint MINI 2 3D 
 
 The scanner comes with its own Revo Scan 5 proprietary software which is available for PC, Android and IOS devices. After installing the software (in this case for PC), the scanner can be connected to the PC using the Type-C cable, after which 2 screws need to be tightened, and a Type-A end connected to the PC.
 
-                                  Graphical representation of connecting PC to Revopoint MINI 2D
+                       
 
 Subsequently, the user will be required to manually calibrate the scanner via the settings icon. The user is given instructions directly via the Revo Scan 5 software as to how to correctly calibrate the scanner. After successful calibration, the user will have the option to create a new project, and will be greeted with the following interface:
 
