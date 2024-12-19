@@ -4,15 +4,7 @@
 
 The used scanning equipment for during the research was the Revopoint MINI 2 3D Scanner. This scanner is a 912$ blue light scanner with precision of up to 0.02 mm, 16 fps scanning speeds and Wi-Fi 6/ USB Type-C connectivity.
 
-The scanner comes with its own Revo Scan 5 proprietary software which is available for PC, Android and IOS devices. After installing the software (in this case for PC), the scanner can be connected to the PC using the Type-C cable, after which 2 screws need to be tightened, and a Type-A end connected to the PC (with PD). 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bd319512-5726-4400-ae5e-a682a0972369" alt="Centered Image" width="1080"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fe0a0f83-cb2a-40fa-9cfe-e969c6506661" alt="Centered Image" width="1080"/>
-</p>
+The scanner comes with its own Revo Scan 5 proprietary software which is available for PC, Android and IOS devices. After installing the software (in this case for PC), the scanner can be connected to the PC using the Type-C cable, after which 2 screws need to be tightened, and a Type-A end connected to the PC.
 
                                   Graphical representation of connecting PC to Revopoint MINI 2D
 
